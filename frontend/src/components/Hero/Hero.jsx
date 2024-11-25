@@ -9,23 +9,23 @@ const HeroData = [
     {
       id: 1,
       img: Image1,
-      subtitle: "Beats Solo",
+      subtitle: "Melhores Marcas",
       title: "Wireless",
       title2: "Headphone",
     },
     {
       id: 2,
       img: Image2,
-      subtitle: "Beats Solo",
-      title: "Wireless",
+      subtitle: "Melhores Marcas",
+      title: "Realidade",
       title2: "Virtual",
     },
     {
       id: 1,
       img: Image3,
-      subtitle: "Beats Solo",
-      title: "Branded",
-      title2: "Laptops",
+      subtitle: "Melhores Marcas",
+      title: "Premium",
+      title2: "Notebooks",
     },
   ];
   
