@@ -10,26 +10,26 @@ const ServiceData = [
     {
         id:1,
         icon: <FaCarSide className="text-4xl md:text-5xl text-primary"/>,
-        title: "Free Shipping",
-        description: "Free Shipping On All Order",
+        title: "Frete grátis",
+        description: "Frete grátis em todos os pedidos",
     },
     {
         id:2,
         icon: <FaCheckCircle className="text-4xl md:text-5xl text-primary"/>,
-        title: "Safe Money",
-        description: "30 Days Money Back",
+        title: "Compra Segura",
+        description: "Sua Compra Segura",
     },
     {
         id:3,
         icon: <FaWallet className="text-4xl md:text-5xl text-primary"/>,
-        title: "Secure Payment",
-        description: "All Payment Secure",
+        title: "Pagamento Seguro",
+        description: "Todos os Pagamentos São Seguros",
     },
     {
         id:4,
         icon: <FaHeadphonesAlt className="text-4xl md:text-5xl text-primary"/>,
-        title: "Online Suport 24/7",
-        description: "Technical Support 24/7",
+        title: "Suporte Online 24/7",
+        description: "Suporte Técnicot 24/7",
     },
 ];
 
